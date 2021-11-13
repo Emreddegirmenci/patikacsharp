@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\emred\Desktop\Patika\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\emred\Desktop\Patika\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\emred\Desktop\Patika\degiskenler\degiskenler\obj\Debug\degiskenler.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\emred\Desktop\Patika\degiskenler\degiskenler\obj\Debug\degiskenler.pdb
