@@ -1,7 +1,0 @@
-C:\Users\emred\Desktop\Patika\operatorler\operatorler\bin\Debug\operatorler.exe.config
-C:\Users\emred\Desktop\Patika\operatorler\operatorler\bin\Debug\operatorler.exe
-C:\Users\emred\Desktop\Patika\operatorler\operatorler\bin\Debug\operatorler.pdb
-C:\Users\emred\Desktop\Patika\operatorler\operatorler\obj\Debug\operatorler.csprojAssemblyReference.cache
-C:\Users\emred\Desktop\Patika\operatorler\operatorler\obj\Debug\operatorler.csproj.CoreCompileInputs.cache
-C:\Users\emred\Desktop\Patika\operatorler\operatorler\obj\Debug\operatorler.exe
-C:\Users\emred\Desktop\Patika\operatorler\operatorler\obj\Debug\operatorler.pdb
