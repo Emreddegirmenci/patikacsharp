@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\tip_donusumleri\tip_donusumleri\bin\Debug\tip_donusumleri.exe.config
+C:\Users\emred\Desktop\Patika\tip_donusumleri\tip_donusumleri\bin\Debug\tip_donusumleri.exe
+C:\Users\emred\Desktop\Patika\tip_donusumleri\tip_donusumleri\bin\Debug\tip_donusumleri.pdb
+C:\Users\emred\Desktop\Patika\tip_donusumleri\tip_donusumleri\obj\Debug\tip_donusumleri.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\tip_donusumleri\tip_donusumleri\obj\Debug\tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\tip_donusumleri\tip_donusumleri\obj\Debug\tip_donusumleri.exe
+C:\Users\emred\Desktop\Patika\tip_donusumleri\tip_donusumleri\obj\Debug\tip_donusumleri.pdb
