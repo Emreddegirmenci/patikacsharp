@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\donguler_while_foreach\donguler_while_foreach\bin\Debug\donguler_while_foreach.exe.config
+C:\Users\emred\Desktop\Patika\donguler_while_foreach\donguler_while_foreach\bin\Debug\donguler_while_foreach.exe
+C:\Users\emred\Desktop\Patika\donguler_while_foreach\donguler_while_foreach\bin\Debug\donguler_while_foreach.pdb
+C:\Users\emred\Desktop\Patika\donguler_while_foreach\donguler_while_foreach\obj\Debug\donguler_while_foreach.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\donguler_while_foreach\donguler_while_foreach\obj\Debug\donguler_while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\donguler_while_foreach\donguler_while_foreach\obj\Debug\donguler_while_foreach.exe
+C:\Users\emred\Desktop\Patika\donguler_while_foreach\donguler_while_foreach\obj\Debug\donguler_while_foreach.pdb
