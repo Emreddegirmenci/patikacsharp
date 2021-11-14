@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\hata_yonetimi\hata_yonetimi\bin\Debug\hata_yonetimi.exe.config
+C:\Users\emred\Desktop\Patika\hata_yonetimi\hata_yonetimi\bin\Debug\hata_yonetimi.exe
+C:\Users\emred\Desktop\Patika\hata_yonetimi\hata_yonetimi\bin\Debug\hata_yonetimi.pdb
+C:\Users\emred\Desktop\Patika\hata_yonetimi\hata_yonetimi\obj\Debug\hata_yonetimi.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\hata_yonetimi\hata_yonetimi\obj\Debug\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\hata_yonetimi\hata_yonetimi\obj\Debug\hata_yonetimi.exe
+C:\Users\emred\Desktop\Patika\hata_yonetimi\hata_yonetimi\obj\Debug\hata_yonetimi.pdb
