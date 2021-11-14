@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\donguler_for_loop\donguler_for_loop\bin\Debug\donguler_for_loop.exe.config
+C:\Users\emred\Desktop\Patika\donguler_for_loop\donguler_for_loop\bin\Debug\donguler_for_loop.exe
+C:\Users\emred\Desktop\Patika\donguler_for_loop\donguler_for_loop\bin\Debug\donguler_for_loop.pdb
+C:\Users\emred\Desktop\Patika\donguler_for_loop\donguler_for_loop\obj\Debug\donguler_for_loop.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\donguler_for_loop\donguler_for_loop\obj\Debug\donguler_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\donguler_for_loop\donguler_for_loop\obj\Debug\donguler_for_loop.exe
+C:\Users\emred\Desktop\Patika\donguler_for_loop\donguler_for_loop\obj\Debug\donguler_for_loop.pdb
