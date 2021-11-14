@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\if_else_if\if_else_if\bin\Debug\if_else_if.exe.config
+C:\Users\emred\Desktop\Patika\if_else_if\if_else_if\bin\Debug\if_else_if.exe
+C:\Users\emred\Desktop\Patika\if_else_if\if_else_if\bin\Debug\if_else_if.pdb
+C:\Users\emred\Desktop\Patika\if_else_if\if_else_if\obj\Debug\if_else_if.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\if_else_if\if_else_if\obj\Debug\if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\if_else_if\if_else_if\obj\Debug\if_else_if.exe
+C:\Users\emred\Desktop\Patika\if_else_if\if_else_if\obj\Debug\if_else_if.pdb
