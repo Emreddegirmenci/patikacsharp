@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\diziler_arraysinifimetotlari\diziler_arraysinifimetotlari\bin\Debug\diziler_arraysinifimetotlari.exe.config
+C:\Users\emred\Desktop\Patika\diziler_arraysinifimetotlari\diziler_arraysinifimetotlari\bin\Debug\diziler_arraysinifimetotlari.exe
+C:\Users\emred\Desktop\Patika\diziler_arraysinifimetotlari\diziler_arraysinifimetotlari\bin\Debug\diziler_arraysinifimetotlari.pdb
+C:\Users\emred\Desktop\Patika\diziler_arraysinifimetotlari\diziler_arraysinifimetotlari\obj\Debug\diziler_arraysinifimetotlari.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\diziler_arraysinifimetotlari\diziler_arraysinifimetotlari\obj\Debug\diziler_arraysinifimetotlari.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\diziler_arraysinifimetotlari\diziler_arraysinifimetotlari\obj\Debug\diziler_arraysinifimetotlari.exe
+C:\Users\emred\Desktop\Patika\diziler_arraysinifimetotlari\diziler_arraysinifimetotlari\obj\Debug\diziler_arraysinifimetotlari.pdb
