@@ -1,0 +1,7 @@
+C:\Users\emred\Desktop\Patika\diziler\diziler\bin\Debug\diziler.exe.config
+C:\Users\emred\Desktop\Patika\diziler\diziler\bin\Debug\diziler.exe
+C:\Users\emred\Desktop\Patika\diziler\diziler\bin\Debug\diziler.pdb
+C:\Users\emred\Desktop\Patika\diziler\diziler\obj\Debug\diziler.csprojAssemblyReference.cache
+C:\Users\emred\Desktop\Patika\diziler\diziler\obj\Debug\diziler.csproj.CoreCompileInputs.cache
+C:\Users\emred\Desktop\Patika\diziler\diziler\obj\Debug\diziler.exe
+C:\Users\emred\Desktop\Patika\diziler\diziler\obj\Debug\diziler.pdb
